@@ -54,7 +54,7 @@ async function getweatherday(value){
         console.log(error);
     }
 }
-
+getweatherday("cairo");
 
 
 
